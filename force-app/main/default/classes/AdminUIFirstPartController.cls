@@ -1,11 +1,11 @@
 /**
- * @description       : 
+ * @description       : creates a new admin
  * @author            : ChangeMeIn@UserSettingsUnder.SFDoc
  * @group             : 
- * @last modified on  : 04-29-2024
- * @last modified by  : ChangeMeIn@UserSettingsUnder.SFDoc
+ * @last modified on  : 03-05-2024
+ * @last modified by  : Varun Verma
 **/
-public with sharing class AdminUIFirstPartController {
+public without sharing class AdminUIFirstPartController {
     
     @AuraEnabled(cacheable=true)
     public static List<Teacher__c> getTeacherRecordsForAttendance() {
