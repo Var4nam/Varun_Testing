@@ -1,5 +1,5 @@
 /**
- * @description       : creates a new admin
+ * @description       : creates a new admin description
  * @author            : ChangeMeIn@UserSettingsUnder.SFDoc
  * @group             : 
  * @last modified on  : 03-05-2024
